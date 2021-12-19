@@ -4,9 +4,9 @@
   "description": "Statistic COVID19",
   "main": "appBot.js",
   "dependencies": {
-    "covid19-api": "^1.2.1",
+    "covid19-api": "^1.1.8",
     "dotenv": "^8.2.0",
-    "telegraf": "^3.38.0"
+    "telegraf": "^3.37.0"
   },
   "devDependencies": {},
   "scripts": {
