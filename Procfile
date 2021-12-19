@@ -1,2 +1,2 @@
-worker: node appBot.js
+worker: npm start
 web: node appBot.js
