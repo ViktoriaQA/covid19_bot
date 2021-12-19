@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "mocha",
-    "start": "nodemon appBot.js"
+    "start": "node appBot.js"
   },
   "engines": {
     "node": "12.21.0",
